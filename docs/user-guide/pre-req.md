@@ -7,6 +7,21 @@ nav_order: 1
 
 ## Pre-Requisites
 
+### Execution Environments
+Each step detailed in this guide requires execution from a specific location. Several execution environments must be available to the
+engineer to perform each task. Ensure that the following execution environment are available to the engineer and configured as specified
+prior to proceeding. 
+
+1. Internet Connected Bastion
+  OS: 
+  RHEL8
+
+  Packages:
+  git
+  podman
+  
+
+
 ### Amazon AWS Requirements
     
   1. Red Hat OpenShift Minimum Requirements    
